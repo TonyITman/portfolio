@@ -5,5 +5,4 @@
 
     function closemenu() {
         document.getElementById("nav-link").style.right = "-200px";
-        document.getElementById("fa-solid").style.display ="none";
     }
